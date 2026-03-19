@@ -31,7 +31,11 @@ Aquest projecte està construït amb tecnologies modernes i orientades al rendim
 
 ## 📸 Captures de Pantalla
 <img width="1860" height="850" alt="image" src="https://github.com/user-attachments/assets/d42739ee-c2b3-4fb2-bf51-05fbc4c0e1a6" />
+
 <img width="1859" height="921" alt="image" src="https://github.com/user-attachments/assets/18b51df6-21bb-4da1-9aa9-506777213922" />
+
 <img width="464" height="833" alt="image" src="https://github.com/user-attachments/assets/a99bd919-ccd6-47eb-b8a1-bf533e2f5f07" />
+
 <img width="494" height="780" alt="image" src="https://github.com/user-attachments/assets/da59e0cf-ef96-467e-8af0-0d494593bfb8" />
+
 <img width="536" height="754" alt="image" src="https://github.com/user-attachments/assets/2dc5328e-dca4-4394-8360-7fcd6587e0fb" />
